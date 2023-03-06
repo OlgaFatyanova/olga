@@ -57,7 +57,7 @@ box {
 
     width: 100%;
 
-    text-align: right;
+    text-align: centre;
 
 }
 
@@ -83,7 +83,7 @@ box {
 
     color: white;
 
-    background-color: #6c63ff;
+    background-color: white;
 
     font-size: 18px;
 
@@ -137,7 +137,7 @@ box {
 
     color: white;
 
-    background-color: #6c63ff;
+    background-color: white;
 
 }
 .clearfix {
